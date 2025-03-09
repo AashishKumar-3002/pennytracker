@@ -20,4 +20,5 @@ An expense tracking application with data visualization - developed using React,
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
+
 ----
